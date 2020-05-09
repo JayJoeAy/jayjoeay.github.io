@@ -47,8 +47,8 @@ Skills
 
 Publications and Translations
 ======
-* [Apocalyptic Rick And Morty](http://falsafidan.com/farhang/%e2%80%8crick-and-morty/)
-* [Should we be Afraid of AI?](http://falsafidan.com/farhang/aitheist/)
-* [Chernobyl and Power Of life](http://falsafidan.com/farhang/chernobyl/)
+* [ریک و مورتی سریال آخرالزمانی آمریکایی](http://falsafidan.com/farhang/%e2%80%8crick-and-morty/)
+* [آیا باید از هوش مصنوعی بترسیم؟](http://falsafidan.com/farhang/aitheist/)
+* [نیروی حیات پس از چرنوبیل](http://falsafidan.com/farhang/chernobyl/)
 
 
