@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Amirkabir University of Technology (Tehran Polytechnin) , 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Intern
+  * SAICO (Ab va Omran company)   
+  * Duties included: Conducting and Designing a Test Procedure for measuring Pressure drop in series of company products.
+  * Supervisor: Mr. Madani
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Intern
+  * IP-CO
+  * Duties included: Designing a Bore Distortion Analysis Post-Processing software with Python compatible with the Abaqus Modelings.
+  * Supervisor: Mr. Ahangari
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Object-Oriented Programming and Procederal Programming in
+  * Python
+  * MATLAB
+  * C++
+* CAD Software
+  * CATIA
+  * Solid-Works
+* CAE Software
+  * ABAQUS
+  * Elmer
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
