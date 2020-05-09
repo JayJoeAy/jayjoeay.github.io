@@ -13,6 +13,13 @@ Education
 ======
 * B.S. in Mechanical Engineering, Amirkabir University of Technology (Tehran Polytechnin) , 2015
 
+Projects
+======
+* Streamline Curvature method Python Modular software
+* Cascade LNG Plant Analysis using Python
+* Gas Turbine analysis using Catalogue data in Python
+* Hardware In the Loop Simulation using Arduino and I2C Protocol
+
 Work experience
 ======
 * Summer 2018: Research Intern
@@ -37,4 +44,14 @@ Skills
 * CAE Software
   * ABAQUS
   * Elmer
+
+Publications and Translations
+======
+* [Apocalyptic Rick And Morty]
+(http://falsafidan.com/farhang/%e2%80%8crick-and-morty/)
+* [Should we be Afraid of AI?]
+(http://falsafidan.com/farhang/aitheist/)
+* [Chernobyl and Power Of life]
+(http://falsafidan.com/farhang/chernobyl/)
+
 
