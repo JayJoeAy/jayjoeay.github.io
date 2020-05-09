@@ -47,11 +47,8 @@ Skills
 
 Publications and Translations
 ======
-* [Apocalyptic Rick And Morty]
-(http://falsafidan.com/farhang/%e2%80%8crick-and-morty/)
-* [Should we be Afraid of AI?]
-(http://falsafidan.com/farhang/aitheist/)
-* [Chernobyl and Power Of life]
-(http://falsafidan.com/farhang/chernobyl/)
+* [Apocalyptic Rick And Morty](http://falsafidan.com/farhang/%e2%80%8crick-and-morty/)
+* [Should we be Afraid of AI?](http://falsafidan.com/farhang/aitheist/)
+* [Chernobyl and Power Of life](http://falsafidan.com/farhang/chernobyl/)
 
 
